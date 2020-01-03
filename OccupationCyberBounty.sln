@@ -3,9 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccupationCyberBounty", "OccupationCyberBounty\OccupationCyberBounty.csproj", "{84136D23-56EE-4263-BB46-BFE0BAF43246}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCB.Web", "OccupationCyberBounty\OCB.Web.csproj", "{84136D23-56EE-4263-BB46-BFE0BAF43246}"
+	ProjectSection(ProjectDependencies) = postProject
+		{473BBACD-21B1-4346-90B4-399191C89402} = {473BBACD-21B1-4346-90B4-399191C89402}
+		{AB9577E7-37A6-46AE-B063-5EB4A22D3631} = {AB9577E7-37A6-46AE-B063-5EB4A22D3631}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccupationCyberBounty.Tests", "OccupationCyberBounty.Tests\OccupationCyberBounty.Tests.csproj", "{8A69D906-226A-4004-8C38-8B4589869F6E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCB.Test", "OccupationCyberBounty.Tests\OCB.Test.csproj", "{8A69D906-226A-4004-8C38-8B4589869F6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCB.Domain", "OCB.Domain\OCB.Domain.csproj", "{473BBACD-21B1-4346-90B4-399191C89402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCB.Data", "OCB.Data\OCB.Data.csproj", "{AB9577E7-37A6-46AE-B063-5EB4A22D3631}"
+	ProjectSection(ProjectDependencies) = postProject
+		{473BBACD-21B1-4346-90B4-399191C89402} = {473BBACD-21B1-4346-90B4-399191C89402}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +32,14 @@ Global
 		{8A69D906-226A-4004-8C38-8B4589869F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A69D906-226A-4004-8C38-8B4589869F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A69D906-226A-4004-8C38-8B4589869F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473BBACD-21B1-4346-90B4-399191C89402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473BBACD-21B1-4346-90B4-399191C89402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473BBACD-21B1-4346-90B4-399191C89402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473BBACD-21B1-4346-90B4-399191C89402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9577E7-37A6-46AE-B063-5EB4A22D3631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9577E7-37A6-46AE-B063-5EB4A22D3631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9577E7-37A6-46AE-B063-5EB4A22D3631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9577E7-37A6-46AE-B063-5EB4A22D3631}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\bin\Debug\netstandard2.0\OCB.Domain.deps.json
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\bin\Debug\netstandard2.0\OCB.Domain.dll
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\obj\Debug\netstandard2.0\OCB.Domain.csprojAssemblyReference.cache
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\obj\Debug\netstandard2.0\staticwebassets\OCB.Domain.StaticWebAssets.Manifest.cache
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\obj\Debug\netstandard2.0\staticwebassets\OCB.Domain.StaticWebAssets.xml
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\obj\Debug\netstandard2.0\OCB.Domain.RazorComponent.input.cache
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\obj\Debug\netstandard2.0\RazorDeclaration\Component1.razor.g.cs
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\obj\Debug\netstandard2.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\obj\Debug\netstandard2.0\OCB.Domain.AssemblyInfoInputs.cache
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\obj\Debug\netstandard2.0\OCB.Domain.AssemblyInfo.cs
+D:\Projects\OccupationCyberBounty\OccupationCyberBounty\OCB.Domain\obj\Debug\netstandard2.0\OCB.Domain.RazorTargetAssemblyInfo.cache
