@@ -3,13 +3,14 @@ using OCB.Domain.Entities.Shared;
 using ServiceStack.DataAnnotations;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace OCB.Domain.Entities
 {
     public class WowBounty: LoggedEntity
     {
-        [PrimaryKey]
+        [Key]
         public int BountyId { get; set; }
 
         public decimal BountyAmount { get; set; }

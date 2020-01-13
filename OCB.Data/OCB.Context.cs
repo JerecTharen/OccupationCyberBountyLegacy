@@ -11,6 +11,10 @@ namespace OCB.Data
 {
     class OCB : DbContext
     {
+        public OCB(): base("OCB-Development")
+        {
+
+        }
         DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
         DbSet<WowBounty> WowBounties { get; set; }
