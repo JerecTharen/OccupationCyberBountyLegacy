@@ -1,6 +1,5 @@
 ﻿
 using OCB.Domain.Entities.Shared;
-using ServiceStack.DataAnnotations;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;

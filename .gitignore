@@ -7,3 +7,19 @@
 ./obj
 ./bin
 
+/OCB.Data/obj/Debug/OCB.Data.pdb
+/OCB.Data/obj/Debug/OCB.Data.Migrations.init.resources
+/OCB.Data/obj/Debug/OCB.Data.dll
+/OCB.Data/obj/Debug/OCB.Data.csproj.GenerateResource.cache
+/OCB.Data/obj/Debug/OCB.Data.csproj.FileListAbsolute.txt
+/OCB.Data/obj/Debug/OCB.Data.csproj.CopyComplete
+/OCB.Domain/bin/Debug/netstandard2.0/System.Security.xml
+/OCB.Domain/bin/Debug/netstandard2.0/System.Security.dll
+/OCB.Domain/bin/Debug/netstandard2.0/System.Configuration.xml
+/OCB.Domain/bin/Debug/netstandard2.0/System.Configuration.dll
+/OCB.Domain/bin/Debug/netstandard2.0/System.ComponentModel.DataAnnotations.xml
+/OCB.Domain/bin/Debug/netstandard2.0/System.ComponentModel.DataAnnotations.dll
+/OCB.Domain/bin/Debug/netstandard2.0/OCB.Domain.pdb
+/OCB.Domain/bin/Debug/netstandard2.0/OCB.Domain.dll
+/OccupationCyberBounty.Tests/bin
+/OccupationCyberBounty.Tests/obj

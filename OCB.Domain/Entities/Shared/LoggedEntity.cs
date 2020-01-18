@@ -8,10 +8,8 @@ namespace OCB.Domain.Entities.Shared
 {
     public class LoggedEntity
     {
-        [ForeignKey("ApplicationUser")]
         public int CreatedByUserId { get; set; }
 
-        [ForeignKey("ApplicationUser")]
         public int UpdatedByUserId { get; set; }
 
         public DateTime CreatedDate { get; set; }
