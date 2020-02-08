@@ -7,6 +7,12 @@
 ./obj
 ./bin
 
+/OCB.Data/obj/
+/OCB.Data/bin/
+/OCB.Domain/bin/
+/OCB.Web/obj/
+/OCB.Web/bin/
+/OCB.Domain/obj/
 /OCB.Data/obj/Debug/OCB.Data.pdb
 /OCB.Data/obj/Debug/OCB.Data.Migrations.init.resources
 /OCB.Data/obj/Debug/OCB.Data.dll
